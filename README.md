@@ -67,11 +67,7 @@ Allowing the parties to make detailed analysis for the feasibility of the deal.
 
 ## Contact
 
-If you have any questions or feedback regarding this project, feel free to reach out to me:
-
-
-- LinkedIn: [SaifUllah Alam](https://www.linkedin.com/in/schwert-gottes/)
-- Upwork: [SaifUllah Alam](https://www.upwork.com/freelancers/saifullahalam2)
+If you have any questions or feedback regarding this project, feel free to reach out.
 
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
 
